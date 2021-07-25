@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/windows-11/static/css/main.f5a63e0f.chunk.css",
+    "main.js": "/windows-11/static/js/main.a66e7adc.chunk.js",
+    "main.js.map": "/windows-11/static/js/main.a66e7adc.chunk.js.map",
+    "runtime-main.js": "/windows-11/static/js/runtime-main.5b879694.js",
+    "runtime-main.js.map": "/windows-11/static/js/runtime-main.5b879694.js.map",
+    "static/js/2.d0974260.chunk.js": "/windows-11/static/js/2.d0974260.chunk.js",
+    "static/js/2.d0974260.chunk.js.map": "/windows-11/static/js/2.d0974260.chunk.js.map",
+    "static/js/3.6db4a9c6.chunk.js": "/windows-11/static/js/3.6db4a9c6.chunk.js",
+    "static/js/3.6db4a9c6.chunk.js.map": "/windows-11/static/js/3.6db4a9c6.chunk.js.map",
+    "index.html": "/windows-11/index.html",
+    "static/css/main.f5a63e0f.chunk.css.map": "/windows-11/static/css/main.f5a63e0f.chunk.css.map",
+    "static/js/2.d0974260.chunk.js.LICENSE.txt": "/windows-11/static/js/2.d0974260.chunk.js.LICENSE.txt",
+    "static/media/FilesExplorer.362da1d4.png": "/windows-11/static/media/FilesExplorer.362da1d4.png",
+    "static/media/calendar.7f2da591.svg": "/windows-11/static/media/calendar.7f2da591.svg",
+    "static/media/edge.fd244004.png": "/windows-11/static/media/edge.fd244004.png",
+    "static/media/exel.25a23080.jpg": "/windows-11/static/media/exel.25a23080.jpg",
+    "static/media/journal.fc51e6ee.png": "/windows-11/static/media/journal.fc51e6ee.png",
+    "static/media/mail.76aa19c2.png": "/windows-11/static/media/mail.76aa19c2.png",
+    "static/media/movies.9879a416.png": "/windows-11/static/media/movies.9879a416.png",
+    "static/media/netflix.597ae5fe.png": "/windows-11/static/media/netflix.597ae5fe.png",
+    "static/media/notepad.4ca0d57f.png": "/windows-11/static/media/notepad.4ca0d57f.png",
+    "static/media/oneNote.77f72a27.png": "/windows-11/static/media/oneNote.77f72a27.png",
+    "static/media/paint.98b20e4b.png": "/windows-11/static/media/paint.98b20e4b.png",
+    "static/media/photos.6de96fad.png": "/windows-11/static/media/photos.6de96fad.png",
+    "static/media/pinterest.ae4d4482.jpg": "/windows-11/static/media/pinterest.ae4d4482.jpg",
+    "static/media/powerpoint.f9df65df.svg": "/windows-11/static/media/powerpoint.f9df65df.svg",
+    "static/media/settings.8c4b7b91.png": "/windows-11/static/media/settings.8c4b7b91.png",
+    "static/media/spotify.7b7d414e.png": "/windows-11/static/media/spotify.7b7d414e.png",
+    "static/media/store.a7c5bea1.png": "/windows-11/static/media/store.a7c5bea1.png",
+    "static/media/App.css": "/windows-11/static/media/walpaper.7e2fb162.jpg",
+    "static/media/windows-11.05e778af.svg": "/windows-11/static/media/windows-11.05e778af.svg",
+    "static/media/word.7a70835c.jpg": "/windows-11/static/media/word.7a70835c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b879694.js",
+    "static/js/2.d0974260.chunk.js",
+    "static/css/main.f5a63e0f.chunk.css",
+    "static/js/main.a66e7adc.chunk.js"
+  ]
+}
